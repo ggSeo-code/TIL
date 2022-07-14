@@ -7,3 +7,4 @@
 |2022-07-11|[Day4: Python ~조건문 반복문](https://github.com/ggSeo-code/TIL/tree/master/220711)|
 |2022-07-12|[Day5: Python ~변수와 연산](https://github.com/ggSeo-code/TIL/tree/master/220712)|
 |2022-07-13|[Day6: Python ~자료형 list](https://github.com/ggSeo-code/TIL/tree/master/220713)|
+|2022-07-14|[Day7: Python ~조건문 실습1](https://github.com/ggSeo-code/TIL/tree/master/220714)|
